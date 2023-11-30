@@ -1,0 +1,33 @@
+
+EXCEPTION HANDELING :
+
+two types of error :
+1. syntax error : occur when we violate the rules of the python languge. example : indentation error
+2. exception : 
+
+ logical error : logical error occurs when we follow the wrong algo or logic to solve a perticular problem.
+ example - divide by zero , out of index
+ in this case the logical error may lead to a run time error that causes the program terminate abruptly.this type of run 
+ time error is called exception.
+
+
+handeling exception :
+we may use try and except block.
+we need to raise the exception from the try block and handle the exception in written in except block.
+one try block may have multiple except block.
+
+
+ca-4
+online test 25 marks 
+
+ca-3
+6 page fronnt page name , u-roll, paper code and name 
+max 5 page 1 front page 
+univercity_roll_no_your_name.pdf to cr
+
+ca 2:
+4 to 5 topics write and make pdf 
+univercity_roll_no_your_name.pdf to sir
+
+ca 1
+cancel
